@@ -1,11 +1,15 @@
 {
-  "PlayerData": [
+  "playerData": [
     {
-      "ID": 1,
-      "Forename": "Player Forename",
-      "Surname": "Player Surname",
-      "ImageURL": "<insert imageurl>",
-      "Age": "18"
+      "id": 1,
+      "forename": "João",
+      "surname": "Silva",
+      "age": 18,
+      "nationality": "Brazil",
+      "position": "Midfielder",
+      "overall": 72,
+      "potential": 85,
+      "imageURL": "https://example.com/player1.jpg"
     }
   ]
 }
