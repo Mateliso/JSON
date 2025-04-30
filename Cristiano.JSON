@@ -2,14 +2,14 @@
   "playerData": [
     {
       "id": 1,
-      "forename": "João",
-      "surname": "Silva",
-      "age": 18,
-      "nationality": "Brazil",
-      "position": "Midfielder",
-      "overall": 72,
-      "potential": 85,
-      "imageURL": "https://example.com/player1.jpg"
+      "forename": "Cristiano",
+      "surname": "Ronaldo",
+      "age": 39,
+      "nationality": "Portugal",
+      "position": "Forward",
+      "overall": 90,
+      "potential": 90,
+      "imageURL": "https://example.com/cr7.jpg"
     }
   ]
 }
