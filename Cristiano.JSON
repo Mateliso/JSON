@@ -1,15 +1,11 @@
 {
-
-	"PlayerData": [
-
-		{
-
-			"ID": 1,
-
-			"Forename": "Player Forename",
-
-			"Surname": "Player Surname",
-
-			"ImageURL": "<insert imageurl>"
-
-	    "Age": "18"
+  "PlayerData": [
+    {
+      "ID": 1,
+      "Forename": "Player Forename",
+      "Surname": "Player Surname",
+      "ImageURL": "<insert imageurl>",
+      "Age": "18"
+    }
+  ]
+}
